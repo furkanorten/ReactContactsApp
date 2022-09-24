@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# ReactContactsApp
+
+### Web application with React that you can save new contacts and filter them by name or phone number.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs requirement packages.\
 
 ### `npm start`
 
