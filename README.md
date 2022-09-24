@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs requirement packages.\
+Installs requirement packages.
 
 ### `npm start`
 
